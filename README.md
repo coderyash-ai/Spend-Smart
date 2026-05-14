@@ -1,4 +1,4 @@
-# **📱 My First Mobile App**
+# **📱 SpendSmart**
 
 *A simple, cross-platform mobile application built with [React Native/Flutter/Other Framework].*
 
