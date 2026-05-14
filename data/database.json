@@ -1,0 +1,16 @@
+{
+  "users": [
+    {
+      "id": 1776275270677,
+      "openId": "email:dGVzdEBleGFtcGxlLmNvbQ==",
+      "name": null,
+      "email": null,
+      "password": null,
+      "loginMethod": null,
+      "role": "user",
+      "createdAt": "2026-04-15T17:47:50.677Z",
+      "updatedAt": "2026-04-15T17:48:03.347Z",
+      "lastSignedIn": "2026-04-15T17:48:03.346Z"
+    }
+  ]
+}

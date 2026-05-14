@@ -1,0 +1,28 @@
+{
+  "users": [
+    {
+      "id": 1776276180564,
+      "openId": "email:dGVzdEBleGFtcGxlLmNvbQ==",
+      "name": null,
+      "email": null,
+      "password": null,
+      "loginMethod": null,
+      "role": "user",
+      "createdAt": "2026-04-15T18:03:00.564Z",
+      "updatedAt": "2026-04-16T04:05:06.856Z",
+      "lastSignedIn": "2026-04-16T04:05:06.844Z"
+    },
+    {
+      "id": 1776311589929,
+      "openId": "email:dGVzdEBleGFtcGxlLmNvbQ==",
+      "name": "Test User",
+      "email": "test@example.com",
+      "password": "$2b$10$RyaeuCk6H4T.1lgWVtHx0ePUYCx8UQT3u/ZK/I2isVd48cvLriuqu",
+      "loginMethod": "email",
+      "role": "user",
+      "createdAt": "2026-04-16T03:53:09.929Z",
+      "updatedAt": "2026-04-16T03:53:09.929Z",
+      "lastSignedIn": "2026-04-16T03:53:09.928Z"
+    }
+  ]
+}
